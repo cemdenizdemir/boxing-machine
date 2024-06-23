@@ -1,3 +1,6 @@
+//https://wokwi.com/projects/400147899883498497
+//https://github.com/cemdenizdemir/boxing-machine
+
 #include <LiquidCrystal.h>
 #include "HX711.h"
 
